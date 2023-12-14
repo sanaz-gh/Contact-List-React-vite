@@ -7,9 +7,11 @@
     margin-bottom: 20px;
 }
 .container p {
-    color: gray;
+    color: #304ffe;
+    font-weight: bold;
+    font-size: 30px;
 }
-.container a {
+/* .container a {
     text-decoration: none;
     color: #304ffe;
     background-color: #bbdefb;
@@ -20,4 +22,4 @@
 .container a:hover {
     color: #bbdefb;
     background-color: #304ffe;
-}
+} */
